@@ -1,0 +1,68 @@
+.superman {
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.marvel h1{
+    font-size: 5rem;
+    margin: 10px;
+    color: red;
+}
+
+.marvel {
+    background-image: url("https://i.annihil.us/u/prod/marvel/i/mg/b/f0/5a6a3c922daf3/clean.jpg");
+}
+
+.spiderman {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid red;
+}
+
+.spiderman h2 {
+    color: red;
+    background-color: rgba(246, 191, 29, 0.7);
+}
+.spiderman p {
+    padding: 10px;
+    color: red;
+    
+}
+
+.iron-man {
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.iron-man h2{
+    background-color: rgba(255, 255, 255, 0.376);
+}
+
+.iron-man p {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.376);
+}
+
+.thor h2{
+    color: white;
+}
+
+.thor {
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.thor p {
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+
+.dc {
+    margin: 10px;
+    background-image: url("https://lh6.googleusercontent.com/7iiCLGvWsRcd72x9rC_r--GBvgjFX9V6iVkR_GtAJyMnd0IPSGE0EPm5lG9Zdbszst-VLj5Q4Y2OVlaEH4lmBxcnPNd7Q9w3KZgqc7NS6S1XT15moFoXAV9aUhtqH62RTN1vk3l8");
+}
+
+.dc h1{
+    color: blue;
+}
